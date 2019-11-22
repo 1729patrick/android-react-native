@@ -1,0 +1,19 @@
+*.iml
+.gradle
+.settings/
+/local.properties
+/.idea/
+.DS_Store
+/captures
+.externalNativeBuild
+javadoc/
+npm-debug.log
+
+# Eclipse project files
+.classpath
+.project
+
+node_modules/
+app/build
+reactnativeapp/build
+

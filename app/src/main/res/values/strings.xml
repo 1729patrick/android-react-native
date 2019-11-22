@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android - React Native</string>
+    <string name="open_rn_activity">React Native Activity</string>
+</resources>
